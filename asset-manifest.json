@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/redd/static/css/main.187b0756.chunk.css",
-    "main.js": "/redd/static/js/main.df4d0a96.chunk.js",
-    "main.js.map": "/redd/static/js/main.df4d0a96.chunk.js.map",
+    "main.css": "/redd/static/css/main.8b4df857.chunk.css",
+    "main.js": "/redd/static/js/main.3609b366.chunk.js",
+    "main.js.map": "/redd/static/js/main.3609b366.chunk.js.map",
     "runtime-main.js": "/redd/static/js/runtime-main.c3795a74.js",
     "runtime-main.js.map": "/redd/static/js/runtime-main.c3795a74.js.map",
     "static/js/2.8e7011de.chunk.js": "/redd/static/js/2.8e7011de.chunk.js",
     "static/js/2.8e7011de.chunk.js.map": "/redd/static/js/2.8e7011de.chunk.js.map",
     "index.html": "/redd/index.html",
-    "static/css/main.187b0756.chunk.css.map": "/redd/static/css/main.187b0756.chunk.css.map",
+    "static/css/main.8b4df857.chunk.css.map": "/redd/static/css/main.8b4df857.chunk.css.map",
     "static/js/2.8e7011de.chunk.js.LICENSE.txt": "/redd/static/js/2.8e7011de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c3795a74.js",
     "static/js/2.8e7011de.chunk.js",
-    "static/css/main.187b0756.chunk.css",
-    "static/js/main.df4d0a96.chunk.js"
+    "static/css/main.8b4df857.chunk.css",
+    "static/js/main.3609b366.chunk.js"
   ]
 }
